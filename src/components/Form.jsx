@@ -73,7 +73,7 @@ const Form = () => {
   return (
     <div className="lg:flex gap-[60px]   justify-center items-center">
         <div className='bg-blue-600 '>
-            <img className=' w-[1400px] ' src="../public/images/ERD.JPEG" alt="" />
+            <img className=' w-[1400px] ' src="../public/images/ERD.jpeg" alt="" />
         </div>
 
 
